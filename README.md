@@ -34,7 +34,7 @@
 ✔ Strong understanding of **data engineering workflows and analytics systems**  
 ✔ Passionate about building scalable data solutions for business insights  
 
-🎯 **Career Goal:** Data Engineer / Analytics Engineer
+🎯 **Career Goal:** Data Analyst / Analytics Engineer
 
 ---
 
