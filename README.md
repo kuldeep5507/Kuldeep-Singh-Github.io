@@ -167,5 +167,5 @@
 ---
 
 <p align="center">
-⭐ Building Scalable Data Systems | Open to Data Engineer Opportunities
+⭐ Building Scalable Data Systems | Open to Data Analyst Opportunities
 </p>
